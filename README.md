@@ -12,7 +12,7 @@
 - SQL: Querying and Managing Data Course, **Khan Academy**
 
 ## Data Analytics & Visualization Project Examples
-###World Life Expectancy Exploratory Data Analysis
+### World Life Expectancy Exploratory Data Analysis
 [View](https://github.com/ayannauhuru/SQL/blob/main/World%20Life%20Expectancy%20Project%20(Exploratory%20Data%20Analysis).sql)
 
 Used **MySQL** to complete data cleansing and exploratory data analysis, comparing life expectancy in developing vs developed countries, analyzing any correlation between life expectancy and GDP, and more 
