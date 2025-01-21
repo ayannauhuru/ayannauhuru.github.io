@@ -21,10 +21,11 @@ Used **MySQL** to complete data cleansing and exploratory data analysis, compari
 
 After data cleansing, analyzed debt percentage trends in recent years, made projections of future growth, and used visualizations help answer questions about the data **Excel**.
 
-### COVID-19 Rates Dashboard 
-[View](https://public.tableau.com/app/profile/ayanna.uhuru/viz/WorldCOVIDData_16947309314030/WorldCOVIDData)
+### Customer Churn Rate Dashboard 
+[View](https://public.tableau.com/app/profile/ayanna.uhuru/viz/ChurnRateDashboard_17374220175330/ChurnRateDashboard)
 
-Quantified COVID-19 vaccination rates over time, by country, and by income group; published a **Tableau** dashboard to visualize results
+Created a dynamic dashboard using **Tableau**, resulting in visualizations of trends in the churn rate of customers of a
+telecommunication company relating to tenure, pricing, and more
 
 ## Work Experience
 **Sales Associate @ H&M (_June 2022 - Present_)**
