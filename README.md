@@ -25,7 +25,7 @@ After data cleansing, analyzed debt percentage trends in recent years, made proj
 [View](https://public.tableau.com/app/profile/ayanna.uhuru/viz/ChurnRateDashboard_17374220175330/ChurnRateDashboard)
 
 Created a dynamic dashboard using **Tableau**, resulting in visualizations of trends in the churn rate of customers of a
-telecommunication company relating to tenure, pricing, and more
+telecommunication company relating to tenure, pricing, and more.
 
 ## Work Experience
 **Sales Associate @ H&M (_June 2022 - Present_)**
